@@ -1,9 +1,6 @@
 {
   "name": "starwars-express",
   "version": "1.0.0",
-  "engine": {
-    "node": "6.2.2"
-  },
   "description": "",
   "main": "server.js",
   "dependencies": {
